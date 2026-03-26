@@ -46,6 +46,11 @@
           "id": "09",
           "title": "Piano Concerto No. 6",
           "artist": "Beethoven"
+        },
+        {
+          "id": "051517a7-b44b-40da-a6ba-7d18fc191dcb",
+          "title": "Cool Song",
+          "artist": "Cool Song"
         }
       ]
     },
